@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <PackageReference Include="Copper.Common.ServiceModelEx.ServiceFabric" Version="1.0.160" />
+    <PackageReference Include="Copper.Messaging.ServiceModelEx.ServiceFabric" Version="1.0.160" />
+    <PackageReference Include="Copper.Proxy.ServiceModelEx.ServiceFabric" Version="1.0.160" />
+    <PackageReference Include="Trivia.Manager.Answer.Interface" Version="1.0.5" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net461</TargetFramework>
+  </PropertyGroup>
+
+</Project>
